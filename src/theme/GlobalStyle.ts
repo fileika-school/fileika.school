@@ -11,4 +11,8 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
   }
 
+  .flex-1 {
+    flex: 1;
+  }
+
 `
